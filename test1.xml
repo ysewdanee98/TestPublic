@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ns1:PackagedComponent xmlns:ns1="http://api.platform.boomi.com/">
+  <packageId>3</packageId>
+  <componentName>test2</componentName>
+</ns1:PackagedComponent>
